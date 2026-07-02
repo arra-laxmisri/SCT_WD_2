@@ -13,6 +13,7 @@ input{
     width: 265px;
     padding: 4px;
     font-size: 25px;
+    margin-right: 15px;
 }
 .Btns{
     display: grid;
