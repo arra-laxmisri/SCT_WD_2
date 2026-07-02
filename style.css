@@ -1,8 +1,8 @@
 .container{
-    background-color: #757575;
+    background-color:  #dbeafe;
     margin: 10px;
     text-align: center;
-    height: 400px;
+    height: auto;
     width: 300px;
     border-radius: 5px;
     padding: 15px;
@@ -26,10 +26,10 @@ input{
     height: 51px;
     width: 54px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifb;
-    background-color: #FFFFFF;
+    background-color: #475569;
     font-weight: bold;
     cursor: pointer;
-    color: black;
+    color: white;
     font-size: 20px;
 }
 .btns{
@@ -39,11 +39,14 @@ input{
     height: 51px;
     width: 54px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifb;
-    background-color: #FBC02D;
+    background-color: #3b82f6;
     font-weight: bold;
     cursor: pointer;
     font-size: 20px;
 }
 .btn:hover{
-    background-color:rgba(240, 248, 255, 0.362);
+    background-color:#64748b;
+}
+.btns:hover{
+    background: #2563eb;
 }
